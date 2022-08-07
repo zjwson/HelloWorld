@@ -5,3 +5,5 @@ int main(){
 	cout << "Heelo World!" << endl;
     return 0;
 }
+
+int a;
